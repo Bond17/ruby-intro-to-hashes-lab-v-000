@@ -8,6 +8,7 @@ end
 
 def monopoly
 	monopoly = {}
+  blank = {}
   monopoly[:railroads]=monopoly
 end
 
