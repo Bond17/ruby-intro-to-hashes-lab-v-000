@@ -9,7 +9,7 @@ end
 def monopoly
 	monopoly = {}
   blank = {}
-  monopoly[:railroads]=monopoly
+  monopoly[:railroads]=blank
 end
 
 def monopoly_with_second_tier
