@@ -28,7 +28,7 @@ describe "building a multidimensional monopoly hash" do
       it "adds a key-value pair to the monopoly hash. The key should be :railroads and the value should be an empty hash" do
         expect(monopoly[:railroads]).to eq({})
         expect(monopoly.keys.count).to eq(1)
-        expect(monopoly.values).to eq[{}])
+        expect(monopoly.values).to eq({}))
       end
     end
   end
